@@ -1,7 +1,7 @@
 ---
 Title: Hurricane Mapper
-Author: John.Fay@duke.edu
-Date: Fall 2025
+Author: shaochong.xue@duke.edu
+Date: Fall 2026
 ---
 
 # HurricaneMapper_PY
